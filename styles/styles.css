@@ -38,5 +38,6 @@ button {
 }
 
 .align-right {
-  margin-right: 0%;
+  display: table;
+  text-align: right;
 }
