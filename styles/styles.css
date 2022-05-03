@@ -40,4 +40,5 @@ button {
 .align-right {
   float: right;
   padding-right: 10px;
+  font-size: 24px;
 }
