@@ -39,6 +39,5 @@ button {
 
 .align-right {
   text-align: right;
-  display: inline-flex;
-  width: 100%;
+  display: inline-block;
 }
