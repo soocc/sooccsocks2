@@ -38,6 +38,5 @@ button {
 }
 
 .align-right {
-  display: table;
-  text-align: right;
+  float: right;
 }
