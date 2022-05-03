@@ -36,13 +36,3 @@ button {
   border-radius: 5px 5px 5px 5px;
   cursor: pointer;
 }
-
-.nav {
-  float: right;
-  padding-right: 10px;
-  font-size: 24px;
-}
-
-.logo {
-  font-size: 24px;
-}
