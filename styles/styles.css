@@ -37,8 +37,12 @@ button {
   cursor: pointer;
 }
 
-.align-right {
+.nav {
   float: right;
   padding-right: 10px;
+  font-size: 24px;
+}
+
+.logo {
   font-size: 24px;
 }
