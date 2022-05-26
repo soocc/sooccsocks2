@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div align="center">
   Hi, I'm Samuel! This website is mostly used for showcasing my personal stuff and tutorials.
   
