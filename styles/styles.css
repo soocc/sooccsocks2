@@ -6,11 +6,12 @@
 }
 
 /* Links inside the navbar */
-.navbar button {
+.navbar a {
   float: right;
   font-size: 16px;
   text-align: center;
   padding: 14px 16px;
+  border-radius: 5px 5px 5px 5px;
   text-decoration: none;
 }
 
