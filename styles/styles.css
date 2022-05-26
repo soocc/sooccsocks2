@@ -6,7 +6,7 @@
 }
 
 /* Links inside the navbar */
-.navbar a {
+.navbar button {
   float: right;
   font-size: 16px;
   text-align: center;
