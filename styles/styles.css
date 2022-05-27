@@ -112,9 +112,7 @@ button {
   background-color: transparent;
   font-family: 'Courier New';
   font-size: 20px;
-  scroll-margin-top: 80px;
-  scroll-margin-bottom: 80px;
-  scroll-margin-right: 40px;
+  text-decoration: none;
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 5px;
