@@ -114,6 +114,7 @@ button {
   font-size: 20px;
   text-decoration: none;
   margin-top: 5%;
+  float: left;
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 5px;
@@ -132,5 +133,6 @@ button {
 }
 
 .margin5px {
-  scroll-margin-left: 5px;
+  margin-left: 5px;
+  float: left;
 }
