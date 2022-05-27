@@ -65,7 +65,7 @@
   border-style: solid;
   border-width: 1px;
   border-radius: 5px 5px 5px 5px;
-  border-color: black;
+  border-color: #ddd;
 }
 
 /* Show the dropdown menu on hover */
