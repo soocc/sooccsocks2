@@ -96,8 +96,6 @@ button {
   background-color: transparent;
   font-family: 'Courier New';
   font-size: 20px;
-  margin-top: 140px;
-  margin-bottom: 140px;
   margin-left: 40px;
   padding-left: 40px;
   padding-right: 40px;
@@ -114,9 +112,9 @@ button {
   background-color: transparent;
   font-family: 'Courier New';
   font-size: 20px;
-  margin-top: 140px;
-  margin-bottom: 140px;
-  margin-left: 40px;
+  scroll-margin-top: 80px;
+  scroll-margin-bottom: 80px;
+  scroll-margin-right: 40px;
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 5px;
