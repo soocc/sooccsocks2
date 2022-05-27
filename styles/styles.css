@@ -83,7 +83,9 @@ html, body {
 
 .footer,
 .push {
+  font-family: 'Courier New';
   height: 50px;
+  margin-left: 8%;
 }
 
 
