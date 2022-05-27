@@ -108,6 +108,13 @@ button {
   cursor: pointer;
 }
 
+.blue-button {
+  color: black;
+  background-color: lightblue;
+  border-color: lightblue;
+  margin-left: 5%;
+}
+
 .margin5px {
-  margin-left: 8px;
+  margin-left: 5px;
 }
