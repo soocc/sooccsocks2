@@ -1,2 +1,2 @@
 # soocc.github.io
-new soocc's socks
+the new soocc's website github!
