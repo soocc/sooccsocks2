@@ -143,6 +143,7 @@ button {
   background-color: transparent;
   font-family: 'Courier New';
   font-size: 20px;
+  display: block;
   text-decoration: none;
   margin-top: 40px;
   float: left;
