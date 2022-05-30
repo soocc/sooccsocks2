@@ -3,7 +3,8 @@
   overflow: hidden;
   background-color: #d9f1fe;
   font-family: 'Courier New';
-  margin-top: 1%;
+  margin-top: 5px;
+  margin-right: 5px;
 }
 
 /* Links inside the navbar */
