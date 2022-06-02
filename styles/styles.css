@@ -17,6 +17,10 @@
   text-decoration: none;
 }
 
+.navtitle {
+  float: left;
+}
+
 /* The dropdown container */
 .dropdown {
   float: right;
