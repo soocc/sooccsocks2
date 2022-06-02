@@ -63,7 +63,8 @@
 
 /* Add a grey background color to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #eee;
+  color: black;
   border-style: solid;
   border-width: 1px;
   border-radius: 5px 5px 5px 5px;
@@ -74,27 +75,6 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-.wrapper {
-  min-height: 100%;
-
-  /* Equal to height of footer */
-  /* But also accounting for potential margin-bottom of last child */
-  margin-bottom: -50px;
-}
-
-.footer,
-.push {
-  font-family: 'Courier New';
-  height: 50px;
-  margin-left: 8%;
-}
-
 
 body {
   background-color: #d9f1fe;
