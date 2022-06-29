@@ -75,7 +75,7 @@
   display: block;
 }
 
-p, h1, h2, h3, h4, a, button {
+p, h1, h2, h3, h4, a, button, div {
   font-family: Verdana;
 }
 
