@@ -75,9 +75,8 @@
   display: block;
 }
 
-* {
+p, h1, h2, h3, h4, a, button {
   font-family: Arial;
-  font-weight: normal;
 }
 
 body {
