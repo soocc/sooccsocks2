@@ -39,6 +39,7 @@
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: black;
   color: white;
+  box-shadow: 5px 5px 0px #42c0ff;
 }
 
 /* Dropdown content (hidden by default) */
