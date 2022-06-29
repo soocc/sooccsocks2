@@ -85,8 +85,8 @@ p {
 }
 
 .abutton {
-  color: #f1c67e;
-  background-color: transparent;
+  color: black;
+  background-color: #f1c67e;
   font-size: 20px;
   display: block;
   text-decoration: none;
