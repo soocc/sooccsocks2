@@ -104,18 +104,11 @@ p {
   border-width: 1px;
   border-radius: 10px 10px 10px 10px;
   cursor: pointer;
-  box-shadow: 5px 5px 0px #ebebeb;
+  box-shadow: 5px 5px 0px #e8e8e9;
 }
 
 .black-button {
   color: white;
   background-color: black;
   border-color: black;
-  margin-left: 5%;
-  box-shadow: 5px 5px 0px #ebebeb;
-}
-
-.margin5px {
-  margin-left: 5px;
-  float: left;
 }
