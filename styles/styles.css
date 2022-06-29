@@ -110,7 +110,7 @@ p {
 }
 
 .first {
-  display: block;
+  display: inline-flex;
   flex-direction: column;
   margin-top: 12%;
   margin-left: 8%;
