@@ -110,6 +110,7 @@ p {
 }
 
 .first {
+  display: inline-block;
   margin-top: 12%;
   margin-left: 8%;
   margin-bottom: 0px;
