@@ -39,6 +39,8 @@
 .navbar a:hover, .dropdown:hover .dropbtn, dropdown-content a:hover{
   background-color: black;
   color: white;
+  border-style: solid;
+  border-width: 1px;
 }
 
 /* Dropdown content (hidden by default) */
