@@ -3,12 +3,12 @@
   overflow: hidden;
   background-color: transparent;
   margin-top: 5px;
-  margin-right: 5px;
+  margin-left: 5px;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: right;
+  float: left;
   font-size: 16px;
   text-align: center;
   padding: 14px 16px;
