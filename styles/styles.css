@@ -45,7 +45,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #ffca70;
+  background-color: #d9f1fe;
   border-style: solid;
   border-width: 1px;
   min-width: 160px;
@@ -86,7 +86,7 @@ p {
 
 .abutton {
   color: black;
-  background-color: #ffca70;
+  background-color: #d9f1fe;
   font-size: 20px;
   display: block;
   text-decoration: none;
