@@ -101,12 +101,12 @@ p {
   border-radius: 10px 10px 10px 10px;
   cursor: pointer;
   box-shadow: 5px 5px 0px #42c0ff;
-  transition: box-shadow 200ms ease-in-out;
-  transition: margin-top 200ms ease-in-out;
+  transition: box-shadow 300ms ease-in-out;
+  transition: margin-top 300ms ease-in-out;
 }
 
 .abutton:hover {
-  box-shadow: 7px 7px 0px #68cbfc;
+  box-shadow: 9px 9px 0px #68cbfc;
   margin-top: 37px;
 }
   
