@@ -49,9 +49,7 @@
   border-style: solid;
   border-width: 1px;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   border-radius: 10px 10px 10px 10px;
-  box-shadow: 5px 5px 0px #42c0ff;
   z-index: 1;
 }
 
