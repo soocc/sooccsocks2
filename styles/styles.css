@@ -79,7 +79,7 @@ p, h1, h2, h3, h4, a, button, div {
 }
 
 body {
-    background-color: linear-gradient(128deg, #001e41, #004d70);
+    background: linear-gradient(128deg, #001e41, #004d70);
     background-size: 400% 400%;
 
     animation: BackgroundGradient 12s ease infinite;
