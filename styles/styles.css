@@ -82,7 +82,7 @@ p {
   line-height: 30px;
 }
 
-.abutton {
+.abutton1 {
   color: black;
   background-color: #d9f1fe;
   font-size: 20px;
@@ -101,12 +101,12 @@ p {
   transition: opacity 100ms ease-out, margin-top 100ms ease-out;
 }
 
-.abutton:hover {
+.abutton1:hover {
   margin-top: 37px;
   opacity: 70%
 }
 
-.black-button {
+.abutton2 {
   color: white;
   background-color: black;
   border-color: black;
