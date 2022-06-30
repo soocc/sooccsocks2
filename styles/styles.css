@@ -84,7 +84,7 @@ p {
   color: black;
   background-color: #d9f1fe;
   font-size: 20px;
-  display: block;
+  display: inline-block;
   text-decoration: none;
   margin-top: 40px;
   padding-left: 50px;
