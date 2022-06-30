@@ -98,12 +98,12 @@ p {
   border-width: 1px;
   border-radius: 10px 10px 10px 10px;
   cursor: pointer;
-  box-shadow: 5px 5px 0px #42c0ff;
+  box-shadow: 5px 5px 5px #42c0ff;
   transition: box-shadow 100ms ease-out, margin-top 100ms ease-out;
 }
 
 .abutton:hover {
-  box-shadow: 9px 9px 0px #68cbfc;
+  box-shadow: 9px 9px 5px #68cbfc;
   margin-top: 37px;
 }
 
