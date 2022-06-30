@@ -86,7 +86,7 @@ p {
 
 .abutton {
   color: black;
-  background-color: #d9f1fe;
+  background-color: #ffca70;
   font-size: 20px;
   display: block;
   text-decoration: none;
@@ -101,19 +101,12 @@ p {
   border-radius: 10px 10px 10px 10px;
   cursor: pointer;
   box-shadow: 5px 5px 0px #42c0ff;
+  transition: box-shadow 500ms ease-in-out, margin-top 500ms ease-in-out;
 }
 
-.abutton:before {
+.abutton:hover {
   box-shadow: 9px 9px 0px #68cbfc;
   margin-top: 37px;
-  position: absolute;
-  z-index; -1;
-  opacity: 0;
-  transition: box-shadow 200ms ease-in-out;
-}
-
-.abutton hover:before {
-  opacity: 1;
 }
   
   
