@@ -8,16 +8,28 @@ layout: default
   <head>
     <link rel="stylesheet" href="/styles/styles.css">
     <style>
+      body {
+          background: linear-gradient(128deg, #001e41, #004d70);
+          background-size: 400% 400%;
+      
+          animation: BackgroundGradient 12s ease infinite;
+      }
+      
+      @keyframes BackgroundGradient { 
+          0%{background-position:0% 50%}
+          50%{background-position:100% 50%}
+          100%{background-position:0% 50%}
+      }
+      
+      .navbar a, .welcome, p, a {
+        color: white;
+      }
+      
       .welcome {
         font-family: 'Arial', sans-serif;
-        color: white;
         font-weight: bold;
         font-size: 90px;
         margin-bottom: 0;
-      }
-      
-      p {
-        color: white;
       }
       
       .abutton {
@@ -32,10 +44,6 @@ layout: default
         margin-top: 12%;
         margin-left: 5%;
         margin-bottom: 0px;
-      }
-      
-      .navbar a {
-        color: white;
       }
     </style>
   </head>
