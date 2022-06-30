@@ -73,13 +73,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-@font-face {
-  font-family: 'Product Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(https://fonts.google.com/specimen/Roboto) format('woff2');
-}
-
 p, h1, h2, h3, h4, a, button, div {
   font-family: 'Roboto', sans-serif;
   color: black;
