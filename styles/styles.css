@@ -97,6 +97,7 @@ p {
   border-style: solid;
   border-width: 1px;
   border-radius: 10px 10px 10px 10px;
+  box-shadow: 0 3px 10px white;
   cursor: pointer;
   transition: opacity 100ms ease-out, margin-top 100ms ease-out;
 }
