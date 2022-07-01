@@ -43,7 +43,7 @@
 
 /* Add a red background \color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn, dropdown-content a:hover {
-  background-color: black;
+  background-color: grey;
   color: white;
 }
 
@@ -51,9 +51,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #d9f1fe;
-  border-style: solid;
-  border-width: 1px;
+  background-color: black;
   min-width: 160px;
   border-radius: 10px 10px 10px 10px;
   z-index: 1;
@@ -76,18 +74,6 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-body {
-  background: linear-gradient(270deg, #001025, #ad7100, #002963, #000000);
-  background-size: 800% 800%;
-  animation: backgroundGradient 30s ease infinite;
-}
-
-@keyframes backgroundGradient { 
-  0%{background-position:0% 50%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 50%}
-}
 
 p, h1, h2, h3, h4, a, button, div {
   font-family: 'Roboto', sans-serif;
