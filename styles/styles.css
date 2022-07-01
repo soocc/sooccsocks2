@@ -49,9 +49,10 @@
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
+  color: white;
+  background-color: black;
   display: none;
   position: absolute;
-  background-color: black;
   min-width: 160px;
   border-radius: 10px 10px 10px 10px;
   z-index: 1;
